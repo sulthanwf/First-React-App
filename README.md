@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Contributor Message
+This is my first react app that I build to learn how react works. this app is a simple counter app <br />
+that can be modified with `+` and `-` button on the screen, that simple. Bellow is the guide from react<br />
+default readme on how to run the app.
+
 ## Available Scripts
 
 In the project directory, you can run:
